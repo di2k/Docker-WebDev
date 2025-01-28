@@ -1,0 +1,9 @@
+html/
+mosquitto/data/
+mosquitto/log/
+db_data/
+Thumbs.db
+.env
+.DS_Store
+.idea/
+.vscode/
